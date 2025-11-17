@@ -69,3 +69,13 @@ with open("Data app Data Bace .json", "r", encoding="utf-8") as file :
 
 
 see_data(data_bace)
+
+
+
+
+
+
+
+
+# الان دارم گیت هاب رو تمرین میکنم
+# پس بعدا این هارو پاک کن
