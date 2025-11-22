@@ -60,8 +60,6 @@ def see_data(data_bace : list) :
             
 
 
-
-
 # این تیکه اضافه میباشد
 with open("Data app Data Bace .json", "r", encoding="utf-8") as file :
     data_bace = json.load(file)
